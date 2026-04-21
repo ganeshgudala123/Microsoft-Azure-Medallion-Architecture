@@ -1,0 +1,6 @@
+{
+	"name": "vehicletheftintegrationRuntime12",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
