@@ -1,0 +1,9 @@
+{
+	"name": "vehilce1",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd2afd15-490e-4e34-9d6d-9bf0fd98718f",
+		"tenantId": "3fe04540-d20c-40ec-b353-492c71fd63fc"
+	}
+}

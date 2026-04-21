@@ -1,0 +1,9 @@
+{
+	"name": "vehicletheftintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": false
+		}
+	}
+}
